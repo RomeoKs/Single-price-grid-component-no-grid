@@ -92,7 +92,7 @@ p {
 }
 .first-card p {
 	color: var(--gray);
-	margin: 15px 40px 40px 40px;
+	margin: 11px 40px 40px 40px;
 }
 .second-card h2, .third-card h2 {
 	color: white;
